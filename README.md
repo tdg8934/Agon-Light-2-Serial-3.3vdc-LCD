@@ -1,6 +1,8 @@
 # Agon-Light-2-Serial-3.3vdc-LCD
 SparkFun 3.3vdc RGB Backlight 16x2 / 20x4 LCDs communication with Agon Light 2
 
+UPDATED 1/20/24 - Includes I2C serial version and original UART serial versions of example program. 
+
 3.3vdc LCD communication (serial Rx/Tx) with Agon Light 2
 Using Richard Turnnidge serial UART assembly/ basic code with a mini thermal receipt printer and Voice Recognition sensor, I found from SparkFun some 3.3vdc RGB backlight LCDs with 16x2 and 20x4 displays (LCD-16396) (LCD-16398).
 Another reason I selected these 3.3vdc compatible LCDs is they also have connections for I2C and SPI for when Agon code drivers become available. 
